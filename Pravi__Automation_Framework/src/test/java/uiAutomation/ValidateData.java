@@ -9,5 +9,6 @@ public class ValidateData {
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("GM");
+		System.out.println("GN");
 	}
 }
