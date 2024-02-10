@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-10T19:03:37 IST" name="Default suite" finished-at="2024-02-10T19:03:37 IST" duration-ms="144">
+    <groups>
+    </groups>
+    <test started-at="2024-02-10T19:03:37 IST" name="Default test" finished-at="2024-02-10T19:03:37 IST" duration-ms="144">
+      <class name="uiAutomation.FetchDataFromExcel">
+        <test-method is-config="true" signature="startSuite()[pri:0, instance:uiAutomation.FetchDataFromExcel@23c30a20]" started-at="2024-02-10T19:03:36 IST" name="startSuite" finished-at="2024-02-10T19:03:37 IST" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSuite -->
+        <test-method signature="Test_Id_03(java.lang.String,long,long)[pri:0, instance:uiAutomation.FetchDataFromExcel@23c30a20]" started-at="2024-02-10T19:03:37 IST" name="Test_Id_03" data-provider="Test_Id_03" finished-at="2024-02-10T19:03:37 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Praveen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1245464489]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Id_03 -->
+        <test-method signature="Test_Id_03(java.lang.String,long,long)[pri:0, instance:uiAutomation.FetchDataFromExcel@23c30a20]" started-at="2024-02-10T19:03:37 IST" name="Test_Id_03" data-provider="Test_Id_03" finished-at="2024-02-10T19:03:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Naveen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234597890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Id_03 -->
+        <test-method signature="Test_Id_03(java.lang.String,long,long)[pri:0, instance:uiAutomation.FetchDataFromExcel@23c30a20]" started-at="2024-02-10T19:03:37 IST" name="Test_Id_03" data-provider="Test_Id_03" finished-at="2024-02-10T19:03:37 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kiran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6564981579]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Id_03 -->
+      </class> <!-- uiAutomation.FetchDataFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
