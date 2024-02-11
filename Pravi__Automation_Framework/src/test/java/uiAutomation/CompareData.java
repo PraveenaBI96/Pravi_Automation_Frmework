@@ -6,6 +6,9 @@ public class CompareData {
 
 	@Test
 	public void compare() {
+
 		System.out.println("Morning");
+		System.out.println("Hii");
+		System.out.println("Good Mrng");
 	}
 }
